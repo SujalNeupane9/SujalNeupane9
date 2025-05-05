@@ -21,9 +21,7 @@ Welcome to my AI/ML portfolio! This repository showcases my projects in Natural 
 - **Technologies:** Python, scikit-learn, Sentence-Transformers, PyTorch.
 - **Code:** [Sentiment Classifier Project](https://github.com/SujalNeupane9/sentiment_classifier)
 
-## Learning Path
-- **Interest:** Currently exploring AI/ML with a focus on Natural Language Processing (NLP).
-- **Courses:** Completed courses on Datacamp
+
 
 ## Contact Information
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sujal-neupane-2a9a2b210/)
