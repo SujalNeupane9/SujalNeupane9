@@ -7,21 +7,20 @@ Welcome to my AI/ML portfolio! This repository showcases my projects in Natural 
 ## Projects
 
 ### Text Summarization
-- **Description:** Implemented text summarization using various techniques like Extractive and Abstractive methods.
-- **Technologies:** Python, Transformers, PyTorch
 - **Code:** [Text Summarization Project](https://github.com/SujalNeupane9/Summarization)
 
-### GPT-2 Chatbot
-- **Description:** Developed a conversational AI chatbot using GPT-2 model for generating human-like responses.
-- **Technologies:** Python, PyTorch, Hugging Face Transformers.
-- **Code:** [GPT-2 Chatbot Project](https://github.com/SujalNeupane9/Natural_Language_Processing/tree/main/GPT-chatbot)
+## Agentic RAG
+- **Code:** [Agentic RAG Project](https://github.com/SujalNeupane9/Agentic-RAG)
+  
+### AskInfinity
+- **Description:** Perplexity like interaction platform using Django and gemini
+- **Code:** [AskInfinity](https://github.com/SujalNeupane9/AskInfinity)
 
-### Sentiment Classifier
-- **Description:** Created a sentiment analysis model to classify text into positive, negative, or neutral sentiments.
-- **Technologies:** Python, scikit-learn, Sentence-Transformers, PyTorch.
+### Sentimet Classification
 - **Code:** [Sentiment Classifier Project](https://github.com/SujalNeupane9/sentiment_classifier)
 
-
+### Breast Cancer prediction (end to end)
+- **Code:** [Breast Cancer Prediction](https://github.com/SujalNeupane9/Breast-Cancer-Survival-Prediction)
 
 ## Contact Information
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sujal-neupane-2a9a2b210/)
