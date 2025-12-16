@@ -1,30 +1,82 @@
-### Hi there 👋
-
-# AI/ML Portfolio
-
-Welcome to my AI/ML portfolio! This repository showcases my projects in Natural Language Processing (NLP),Computer Vision(CV),Machine Learning(ML), including text summarization, a GPT-2 based chatbot, and sentiment classification.
-
-## Projects
-
-### Text Summarization
-- **Code:** [Text Summarization Project](https://github.com/SujalNeupane9/Summarization)
-
-## Agentic RAG
-- **Code:** [Agentic RAG Project](https://github.com/SujalNeupane9/Agentic-RAG)
+<div align="center">
   
-### AskInfinity
-- **Description:** Perplexity like interaction platform using Django and gemini
-- **Code:** [AskInfinity](https://github.com/SujalNeupane9/AskInfinity)
+![Profile Views](https://komarev.com/ghpvc/?username=SujalNeupane9&color=blueviolet&style=flat-square)
 
-### Sentimet Classification
-- **Code:** [Sentiment Classifier Project](https://github.com/SujalNeupane9/sentiment_classifier)
+# 👋 Hi, I'm Sujal Neupane
 
-### Breast Cancer prediction (end to end)
-- **Code:** [Breast Cancer Prediction](https://github.com/SujalNeupane9/Breast-Cancer-Survival-Prediction)
+### 🤖 AI/ML Engineer | 🧠 NLP Enthusiast 
 
-## Contact Information
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sujal-neupane-2a9a2b210/)
-- **Email:** neupane9sujal@gmail.com
+*Passionate about building intelligent systems that make a difference*
 
-Feel free to reach out if you have any questions, suggestions, or if you're interested in collaboration!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujal-neupane-2a9a2b210/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:neupane9sujal@gmail.com)
 
+---
+
+</div>
+
+## 🚀 About Me
+
+Welcome to my AI/ML portfolio! I specialize in building cutting-edge solutions in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Machine Learning (ML)**. From intelligent chatbots to predictive models, I love transforming complex problems into elegant solutions.
+
+## 💼 Featured Projects
+
+### 🔍 Agentic RAG
+> Advanced Retrieval-Augmented Generation system with agentic capabilities
+- **Tech Stack:** LangChain, Vector Databases, LLMs
+- **[View Code →](https://github.com/SujalNeupane9/Agentic-RAG)**
+
+### 🌐 AskInfinity
+> Perplexity-style interaction platform powered by Django and Gemini
+- **Tech Stack:** Django, Gemini API, Python
+- **[View Code →](https://github.com/SujalNeupane9/AskInfinity)**
+
+### 📝 Text Summarization
+> Intelligent text summarization using state-of-the-art NLP models
+- **Tech Stack:** Transformers, PyTorch, NLP
+- **[View Code →](https://github.com/SujalNeupane9/Summarization)**
+
+### 💭 Sentiment Classification
+> Real-time sentiment analysis for understanding customer feedback
+- **Tech Stack:** BERT, TensorFlow, NLP
+- **[View Code →](https://github.com/SujalNeupane9/sentiment_classifier)**
+
+### 🏥 Breast Cancer Prediction
+> End-to-end ML pipeline for breast cancer survival prediction
+- **Tech Stack:** Scikit-learn, Pandas, Flask
+- **[View Code →](https://github.com/SujalNeupane9/Breast-Cancer-Survival-Prediction)**
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujalNeupane9&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalNeupane9&layout=compact&theme=radical)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative AI/ML projects or discuss the latest developments in the field. Whether you have a question, suggestion, or just want to chat about machine learning, feel free to reach out!
+
+<div align="center">
+
+**📧 neupane9sujal@gmail.com**
+
+**💼 [LinkedIn Profile](https://www.linkedin.com/in/sujal-neupane-2a9a2b210/)**
+
+---
+
+⭐️ *If you find my projects interesting, consider giving them a star!*
+
+</div>
