@@ -23,7 +23,7 @@ Welcome to my AI/ML portfolio! I specialize in building cutting-edge solutions i
 
 ### 🔍 Agentic RAG
 > Advanced Retrieval-Augmented Generation system with agentic capabilities
-- **Tech Stack:** LangChain, Vector Databases, LLMs
+- **Tech Stack:** LangChain, Vector Databases, LLMs, SentenceTransformers
 - **[View Code →](https://github.com/SujalNeupane9/Agentic-RAG)**
 
 ### 🌐 AskInfinity
@@ -33,24 +33,26 @@ Welcome to my AI/ML portfolio! I specialize in building cutting-edge solutions i
 
 ### 📝 Text Summarization
 > Intelligent text summarization using state-of-the-art NLP models
-- **Tech Stack:** Transformers, PyTorch, NLP
+- **Tech Stack:** Transformers, PyTorch
 - **[View Code →](https://github.com/SujalNeupane9/Summarization)**
 
 ### 💭 Sentiment Classification
 > Real-time sentiment analysis for understanding customer feedback
-- **Tech Stack:** BERT, TensorFlow, NLP
+- **Tech Stack:** pytorch
 - **[View Code →](https://github.com/SujalNeupane9/sentiment_classifier)**
 
 ### 🏥 Breast Cancer Prediction
 > End-to-end ML pipeline for breast cancer survival prediction
-- **Tech Stack:** Scikit-learn, Pandas, Flask
+- **Tech Stack:** Scikit-learn, Pandas, MLflow
 - **[View Code →](https://github.com/SujalNeupane9/Breast-Cancer-Survival-Prediction)**
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
